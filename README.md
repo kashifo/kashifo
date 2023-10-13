@@ -9,11 +9,7 @@
 
 - 👨‍💻 Fully responsible for leading the development, release, and maintenance of android apps of my last three companies
 
-- 📝 Checkout my articles on [Medium](https://medium.com/@kashifo).
-
 - 📫 Reach me @ **koderkashif@gmail.com**
-
-- 📄 Get my CV [here](https://kashifo.github.io/cv.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,11 +31,35 @@
 <h3 align="left">Languages and frameworks I've worked with:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" />
+
 </p>
 
 <h1 align = 'Center'>My GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashifo&show_icons=true&locale=en&layout=compact" alt="kashifo" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kashifo&show_icons=true&locale=en" alt="kashifo" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashifo&show_icons=true&locale=en&layout=compact" alt="kashifo" /> <img src="https://github-readme-stats.vercel.app/api?username=kashifo&show_icons=true&locale=en" alt="kashifo" /></p>
 <p align="center">
