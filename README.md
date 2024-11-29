@@ -1,5 +1,5 @@
-# Hi World! I'm Kashif,
-## Software Developer, Esp Android Native & Flutter.
+# Hello World! This is Kashif,
+## Technologist, Software & Product Enthusiast, Coding Hobbyist.
 
 - 🌱 Passionate about Tech and Software from an early age, started coding as a hobby at the age of 15 by developing several hobby projects
 
@@ -60,6 +60,9 @@
 
 </p>
 
-<h1 align = 'Center'>My GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashifo&show_icons=true&locale=en&layout=compact" alt="kashifo" /> <img src="https://github-readme-stats.vercel.app/api?username=kashifo&show_icons=true&locale=en" alt="kashifo" /></p>
+<h1 align = 'left'>My GitHub Stats</h1>
 <p align="center">
+  <img src="https://kashifo-github-readme-stats.vercel.app/?user=kashifo&theme=vue-dark&background=45%2CE96443%2C904E95&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakNum=EBEBEB&ring=EBEBEB&fire=FC6400" alt="kashifo" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashifo&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff">
+</p>
+
