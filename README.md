@@ -28,21 +28,20 @@
 
 <h3>My GitHub Stats</h1>
 <a href="">
-  <img height=200 align="center" src="https://kashifo-github-readme-stats.vercel.app/?user=kashifo&theme=vue-dark&background=45%2CE96443%2C904E95&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakNum=EBEBEB&ring=EBEBEB&fire=FC6400" alt="kashifo" style="display: inline-block; margin-right: 10px;">
+  <img height=220 width=360 align="center" src="https://kashifo-github-readme-stats.vercel.app/?user=kashifo&theme=vue-dark&background=45%2CE96443%2C904E95&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakNum=EBEBEB&ring=EBEBEB&fire=FC6400&card_height=220" alt="kashifo" style="display: inline-block; margin-right: 10px;">
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kashifo&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff">
+  <img height=200 width=360 align="center" src="https://github-readme-stats.vercel.app/api?username=kashifo&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&card_width=200">
 </a>
 
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=4034209)
+[![Kashif's StackOverflow](https://github-readme-stackoverflow-kashifo.vercel.app/?userID=4034209&layout=full&theme=dark)](https://stackoverflow.com/users/4034209/kashif-anwaar)
 
 <h3>Extra Repo Pins:</h3>
 <p>
    
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kashifo&repo=flutter-ui-collection)](https://github.com/kashifo/flutter-ui-collection)
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kashifo&repo=dart-cheat-sheet)](https://github.com/kashifo/dart-cheat-sheet)
+   [![ReadMe Card](https://github-readme-stats-plus.vercel.app/api/pin/?username=kashifo&repo=flutter-ui-collection)](https://github.com/kashifo/flutter-ui-collection)
+   [![ReadMe Card](https://github-readme-stats-plus.vercel.app/api/pin/?username=kashifo&repo=dart-cheat-sheet)](https://github.com/kashifo/dart-cheat-sheet)
 
-   
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kashifo&repo=flutter-books-app)](https://github.com/kashifo/flutter-books-app)
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kashifo&repo=odictionary)](https://github.com/kashifo/odictionary)
+   [![ReadMe Card](https://github-readme-stats-plus.vercel.app/api/pin/?username=kashifo&repo=flutter-books-app)](https://github.com/kashifo/flutter-books-app)
+   [![ReadMe Card](https://github-readme-stats-plus.vercel.app/api/pin/?username=kashifo&repo=odictionary)](https://github.com/kashifo/odictionary)
 </p>
